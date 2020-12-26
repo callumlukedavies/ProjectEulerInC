@@ -1,2 +1,12 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+#Executables
 *.exe
 *.out
