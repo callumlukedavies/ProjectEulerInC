@@ -23,14 +23,14 @@ int main(int argc, char const *argv[])
             {
                 temp += i;
             }
-            
+
             prevFib2 = prevFib;
             prevFib = i;
             i += prevFib2 - 1;
         }
     }
 
-     printf("The total of even fibonacci numbers under 4000000 is %d\n", temp);
+     printf("The total of the even fibonacci numbers under 4000000 is %d\n", temp);
     
     return 0;
 }
