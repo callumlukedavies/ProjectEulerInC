@@ -37,7 +37,7 @@ int64_t getProduct(char *str, int index);
     get the next 13 characters, calculate the sum, and store it in a variable.
     We will also store the first and last index of that string in variables.
     We will then increment the starting position by 1 and calculate for
-    the next 13 numbers, and so on until we reach the last 15. 
+    the next 13 numbers, and so on until we reach the last 13. 
 */
 int main(int argc, char const *argv[])
 {
