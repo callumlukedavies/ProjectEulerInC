@@ -12,4 +12,5 @@ Problem 7 - 10001st prime \
 Problem 8 - Largest product in a series \
 Problem 9 - Special pythagorean triplet \
 Problem 10 - Summation of primes \
-Problem 11 - Largest product in a grid
+Problem 11 - Largest product in a grid \
+Problem 12 - Highly divisible triangular number 
